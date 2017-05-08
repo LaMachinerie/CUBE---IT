@@ -1,1 +1,3 @@
 .DS_Store
+# the end of lines are normal, see http://stackoverflow.com/questions/17556250/how-to-ignore-icon-in-git
+Icon
